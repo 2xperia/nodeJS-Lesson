@@ -1,4 +1,4 @@
-const Radio = require('./03-radio');
+const Radio = require('./radio.js');
 
 const station = {
   freq: '106.7',
